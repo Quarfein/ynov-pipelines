@@ -42,7 +42,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/sinaure/ynov-pipelines</url>
+			<url>https://maven.pkg.github.com/Quarfein/ynov-pipelines</url>
 		</repository>
 	</distributionManagement>
 </project>
